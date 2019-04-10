@@ -9,7 +9,8 @@ gcc \
 g++ \
 make \
 zlib1g-dev \
-bzip2
+bzip2 \
+screen
 
 WORKDIR /opt
 
